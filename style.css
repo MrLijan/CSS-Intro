@@ -9,10 +9,11 @@
 
 .box1 {
     background-color: var(--green);
+    font-size: 14px
 }
 
 .box2 {
-    background-color: var(--red);
+    background-color: var(--yellow);
 }
 
 .box3 {
