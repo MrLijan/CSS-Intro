@@ -7,3 +7,18 @@
 
 
 
+.box1 {
+    background-color: var(--green);
+}
+
+.box2 {
+    background-color: var(--red);
+}
+
+.box3 {
+    background-color: var(--blue);
+}
+
+.box4 {
+    background-color: var(--yellow);
+}
